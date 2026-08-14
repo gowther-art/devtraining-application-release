@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_58872_needit.Properties</name>
+        <read_roles>x_58872_needit.admin</read_roles>
+        <suffix>Properties</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-14 11:45:30</sys_created_on>
+        <sys_id>35dd4d8083f6031033475d70deaad345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_35dd4d8083f6031033475d70deaad345</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-14 11:45:30</sys_updated_on>
+        <type>string</type>
+        <value/>
+        <write_roles>x_58872_needit.admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=35dd4d8083f6031033475d70deaad345"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a632825cdbc6f954caf99027c59619b7</instance_id>
+        <instance_name>dev189798</instance_name>
+        <name>sys_properties_35dd4d8083f6031033475d70deaad345</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description/><ignore_cache>true</ignore_cache><is_private>false</is_private><name>x_58872_needit.Properties</name><read_roles>x_58872_needit.admin</read_roles><suffix>Properties</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-14 11:45:30</sys_created_on><sys_id>35dd4d8083f6031033475d70deaad345</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.Properties</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_properties_35dd4d8083f6031033475d70deaad345</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-14 11:45:30</sys_updated_on><type>string</type><value/><write_roles>x_58872_needit.admin</write_roles></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=35dd4d8083f6031033475d70deaad345"/></record_update>]]></payload>
+        <payload_hash>788175561</payload_hash>
+        <record_name>x_58872_needit.Properties</record_name>
+        <reverted_from/>
+        <source>e1313ba3832a0f1033475d70deaad352</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-14 11:45:30</sys_created_on>
+        <sys_id>58fdc1c083f6031033475d70deaad32e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a000176e530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-14 11:45:30</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>9cfd01c0a3f60310ffca9780ac31cf8d</update_guid>
+        <update_guid_history>9cfd01c0a3f60310ffca9780ac31cf8d:788175561</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-14 11:45:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>066c299994ff4c5380ab498c194aac09</sys_id>
+        <sys_metadata>35dd4d8083f6031033475d70deaad345</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_35dd4d8083f6031033475d70deaad345</sys_update_name>
+        <sys_update_version display_value="sys_properties_35dd4d8083f6031033475d70deaad345">58fdc1c083f6031033475d70deaad32e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-14 11:45:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
